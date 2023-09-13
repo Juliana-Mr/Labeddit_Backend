@@ -7,3 +7,5 @@ Dentre os conteúdos abordados estão os conhecimentos em NodeJS, Typescript, Ex
 
 
 Link para documentação da API: https://documenter.getpostman.com/view/25367056/2s9Y5ZwNVw
+
+Link do repositório do projeto frontend: https://github.com/Juliana-Mr/Labeddit-Frontend
